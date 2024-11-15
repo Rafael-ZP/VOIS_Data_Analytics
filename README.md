@@ -57,12 +57,8 @@ The dataset used in this project contains information about:
    ```bash
    git clone https://github.com/yourusername/Doctors-Visit-Project.git
    ```
-2. Install required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the analysis in Jupyter Notebook:
-   - Open `analysis.ipynb` in Jupyter Notebook and run the cells to see the results.
+2. Run the analysis in Jupyter Notebook:
+   - Open `VOIS_Data_Analytics.ipynb` in Jupyter Notebook and run the cells to see the results.
 
 ## Contributing
 Feel free to fork the repository, submit pull requests, and contribute to improving the project. Ensure that you follow the proper coding guidelines and best practices.
